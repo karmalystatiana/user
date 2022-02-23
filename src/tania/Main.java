@@ -8,5 +8,5 @@ public class Main {
         System.out.println("Введите имя");
         String name = scanner.next();
         System.out.println("Добро пожаловать " + name);
-        }
+         }
     }
